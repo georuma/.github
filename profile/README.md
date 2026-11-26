@@ -2,7 +2,7 @@
 
 **Inteligencia territorial y soluciones geoespaciales**
 
-Iniciativa de consultoría geoespacial orientada a transformar datos geográficos, territoriales y estadísticos en información útil para la toma de decisiones. Con base en Argentina y enfoque nacional.
+Consultoría geoespacial orientada a transformar datos geográficos, territoriales y estadísticos en información útil para la toma de decisiones. Con base en Argentina y enfoque nacional.
 
 ## Áreas de trabajo
 
@@ -17,7 +17,7 @@ Iniciativa de consultoría geoespacial orientada a transformar datos geográfico
 
 - Métodos documentados, reproducibles y sujetos a validación.
 - Cartografía rigurosa y fuentes trazables.
-- Datos y productos interoperables, preparados para usuarios humanos y sistemas de IA.
+- Productos diseñados para personas y sistemas de IA: datos estructurados, metadatos, esquemas y documentación, sujetos a derechos de acceso.
 - Respeto por las licencias, la privacidad y la propiedad intelectual.
 
 ## Portfolio
@@ -26,4 +26,6 @@ Los proyectos demostrativos se incorporarán a medida que estén validados y aut
 
 ## Contacto
 
-Argentina · [contacto.georuma@gmail.com](mailto:contacto.georuma@gmail.com)
+Argentina · [Correo institucional](mailto:contacto.georuma@gmail.com) · [LinkedIn](https://www.linkedin.com/company/145501485) · [Instagram (@georuma.ar)](https://www.instagram.com/georuma.ar/) · [Facebook](https://www.facebook.com/1439259325940079)
+
+**El territorio, convertido en conocimiento.**
